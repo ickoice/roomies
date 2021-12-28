@@ -208,7 +208,7 @@ $(document).ready(function () {
         $('.owl-screenshot').owlCarousel({
             loop: true,
             margin: 30,
-            items: 4,
+            items: 16,
             nav: false,
             // autoplay: 2500,
             smartSpeed: 1500,
